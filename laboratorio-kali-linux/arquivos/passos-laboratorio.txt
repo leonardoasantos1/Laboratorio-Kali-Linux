@@ -1,0 +1,7 @@
+1. Configuração da rede interna no VirtualBox
+2. Criação das máquinas virtuais
+3. Testes de conectividade com ping
+4. Varredura de rede com Nmap
+5. Enumeração de serviços e portas com Nmap
+6. Análise dos resultados
+7. Registro dos dados no repositório

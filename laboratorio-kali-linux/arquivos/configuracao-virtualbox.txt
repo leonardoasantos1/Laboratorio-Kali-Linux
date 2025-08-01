@@ -1,0 +1,5 @@
+Rede: Interna (192.168.56.0/24)
+Kali Linux: DHCP
+Windows Server: 192.168.56.101
+Ubuntu Server: 192.168.56.102
+VirtualBox utilizado como hipervisor

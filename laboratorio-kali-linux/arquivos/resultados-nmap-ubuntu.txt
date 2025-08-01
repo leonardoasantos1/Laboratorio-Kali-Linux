@@ -1,0 +1,6 @@
+Nmap scan report for 192.168.56.102
+Host is up (0.0021s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+OS details: Linux 2.6.x (generic)

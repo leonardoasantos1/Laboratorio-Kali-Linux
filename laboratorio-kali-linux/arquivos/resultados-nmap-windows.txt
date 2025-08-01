@@ -1,0 +1,7 @@
+Nmap scan report for 192.168.56.101
+Host is up (0.0047s latency).
+PORT     STATE SERVICE
+5985/tcp open  http
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+OS details: Microsoft Windows Server 2016 or 2022, or Windows 11
